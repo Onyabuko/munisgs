@@ -152,5 +152,5 @@ This project is licensed under the MIT License.
 
 **Onya\_I.TGuy**
 Email: onyabukoisaac@gmail.com 
-GitHub: [your-username](https://github.com/onyabuko)
+GitHub: Onyabuko (https://github.com/onyabuko)
 
