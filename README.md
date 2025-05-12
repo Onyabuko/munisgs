@@ -48,6 +48,7 @@ Currently, students at Muni University report grievances by physically visiting 
 
 ## 📷 Screenshots
 
+![Screenshot (217)](https://github.com/user-attachments/assets/57c3c365-5461-47da-b434-788da5a55f6f)
 
 
 
